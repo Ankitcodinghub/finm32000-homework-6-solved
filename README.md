@@ -1,0 +1,1 @@
+# finm32000-homework-6-solved
